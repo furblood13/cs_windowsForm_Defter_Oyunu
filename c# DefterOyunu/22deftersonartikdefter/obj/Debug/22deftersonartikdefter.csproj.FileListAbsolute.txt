@@ -1,0 +1,12 @@
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\bin\Debug\22deftersonartikdefter.exe.config
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\bin\Debug\22deftersonartikdefter.exe
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\bin\Debug\22deftersonartikdefter.pdb
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\obj\Debug\22deftersonartikdefter.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\obj\Debug\22deftersonartikdefter.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\obj\Debug\_22deftersonartikdefter.Form1.resources
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\obj\Debug\_22deftersonartikdefter.Properties.Resources.resources
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\obj\Debug\22deftersonartikdefter.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\obj\Debug\22deftersonartikdefter.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\obj\Debug\22deftersonartikdefter.exe
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\obj\Debug\22deftersonartikdefter.pdb
+C:\Users\furka\source\repos\22deftersonartikdefter\22deftersonartikdefter\obj\Debug\_22deftersonartikdefter.Form2.resources
